@@ -1,5 +1,4 @@
-#include <TEXHOUM_MOTOR.h>
-
+#include <TEXHOUM_PAC.h>
 
 // Пример программы для езды вперёд в течение 3 секунд.
 // An example program for driving forward for 3 seconds.
